@@ -1,0 +1,12 @@
+#Pequena revisão de Git e Github
+
+[x] Clonando repositório: git clone http://...
+[x] Adicionando as alterações para o controle de versão: git add . (para adicionar todas as novas alterações)
+[x] Consultando o status de alterações do repositório: git status
+[x] Comitando (local): git commit -m "Comentários sobre as alterações"
+[x] Subindo para o repositório remoto (github) na branch main: git push origin main
+
+
+Conclusões:
+Módulo de desafio importante para familiarizar-se com o versionamento de projetos com Git e Github.
+Habilidade essencial para devs em geral.
